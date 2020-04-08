@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6522407077695208051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5348682790860439361}
+  - component: {fileID: 2229594137745025537}
+  - component: {fileID: 1718510779}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5348682790860439361
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6522407077695208051}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2229594137745025537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6522407077695208051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5300d0b607310a340bae8ca842046f58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: MenuBGM
+    clip: {fileID: 8300000, guid: be3b21f969dfbe146b94cc0266fa073d, type: 3}
+    source: {fileID: 0}
+  - name: LabBGM
+    clip: {fileID: 8300000, guid: c600564bb9b541a44ba16c055761d74f, type: 3}
+    source: {fileID: 0}
+  - name: ForestBGM
+    clip: {fileID: 8300000, guid: e34349e0f87af9f44962af345bdab6a2, type: 3}
+    source: {fileID: 0}
+  - name: LaunchpadBGM
+    clip: {fileID: 8300000, guid: 5e5e61f09a153b748a33ecd4341f1d3b, type: 3}
+    source: {fileID: 0}
+  - name: LaserSound
+    clip: {fileID: 8300000, guid: 15508674c880ff5459b621ff16695d52, type: 3}
+    source: {fileID: 0}
+  - name: ShotgunSound
+    clip: {fileID: 8300000, guid: b09494a0f7dd66f458a9cd412924d33a, type: 3}
+    source: {fileID: 0}
+  - name: MinigunSound
+    clip: {fileID: 8300000, guid: b02ffc995f854014a8359b166d5c088e, type: 3}
+    source: {fileID: 0}
+  - name: RobotSound
+    clip: {fileID: 8300000, guid: e5af086adb5958245bd00d01b6406dfe, type: 3}
+    source: {fileID: 0}
+  - name: RobotDeathSound
+    clip: {fileID: 8300000, guid: 32cc37d4bd33fb04eab0969a3a7e2fbe, type: 3}
+    source: {fileID: 0}
+  - name: GrenadeSound
+    clip: {fileID: 8300000, guid: 536743d6f181ce14aa0a3d47b02258e4, type: 3}
+    source: {fileID: 0}
+  - name: BrainGrenadeSound
+    clip: {fileID: 8300000, guid: 4fb60075193cf0e4b92fa4c7e7538374, type: 3}
+    source: {fileID: 0}
+  - name: PickupSound
+    clip: {fileID: 8300000, guid: 48fb2ceea9ff8b1449393f357b491a01, type: 3}
+    source: {fileID: 0}
+  - name: PowerupSound
+    clip: {fileID: 8300000, guid: 370ba73bf9b9f9c428b0dc4977fd8eaa, type: 3}
+    source: {fileID: 0}
+  - name: WaveClearSound
+    clip: {fileID: 8300000, guid: 95cbf38c7ffe35d47a0cd29d0b17e81c, type: 3}
+    source: {fileID: 0}
+  - name: DoorSound
+    clip: {fileID: 8300000, guid: f1003126972dea3459c4d013f6134a10, type: 3}
+    source: {fileID: 0}
+--- !u!114 &1718510779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6522407077695208051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 528720b3a5e4bd549b288abdb63aa1e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

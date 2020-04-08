@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: b514566f66511a74c9ebf07c6a023185
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Cylinder
+    100006: Cylinder_001
+    100008: Cylinder_002
+    100010: eye
+    100012: face_plate
+    100014: head
+    100016: Lazer_Eye
+    100018: lazerball
+    100020: Torus_000
+    100022: Torus_002
+    100024: Torus_003
+    100026: Torus_004
+    100028: Torus_005
+    100030: Torus_006
+    100032: Camera
+    100034: Cylinder.001
+    100036: Cylinder.002
+    100038: face plate
+    100040: Lamp
+    100042: Lamp.001
+    100044: Lazer Eye
+    100046: Torus.000
+    100048: Torus.002
+    100050: Torus.003
+    100052: Torus.004
+    100054: Torus.005
+    100056: Torus.006
+    400000: //RootNode
+    400002: Cube
+    400004: Cylinder
+    400006: Cylinder_001
+    400008: Cylinder_002
+    400010: eye
+    400012: face_plate
+    400014: head
+    400016: Lazer_Eye
+    400018: lazerball
+    400020: Torus_000
+    400022: Torus_002
+    400024: Torus_003
+    400026: Torus_004
+    400028: Torus_005
+    400030: Torus_006
+    400032: Camera
+    400034: Cylinder.001
+    400036: Cylinder.002
+    400038: face plate
+    400040: Lamp
+    400042: Lamp.001
+    400044: Lazer Eye
+    400046: Torus.000
+    400048: Torus.002
+    400050: Torus.003
+    400052: Torus.004
+    400054: Torus.005
+    400056: Torus.006
+    2000000: Camera
+    2100000: Brain
+    2100002: Blood
+    2100004: eyes
+    2100006: metal
+    2100008: skin
+    2100010: lazerEye
+    2100012: unnamed
+    2100014: No Name
+    2300000: Cube
+    2300002: Cylinder
+    2300004: Cylinder_001
+    2300006: Cylinder_002
+    2300008: eye
+    2300010: face_plate
+    2300012: head
+    2300014: Lazer_Eye
+    2300016: lazerball
+    2300018: Torus_000
+    2300020: Torus_002
+    2300022: Torus_003
+    2300024: Torus_004
+    2300026: Torus_005
+    2300028: Torus_006
+    2300030: Cylinder.001
+    2300032: Cylinder.002
+    2300034: face plate
+    2300036: Lazer Eye
+    2300038: Torus.000
+    2300040: Torus.002
+    2300042: Torus.003
+    2300044: Torus.004
+    2300046: Torus.005
+    2300048: Torus.006
+    3300000: Cube
+    3300002: Cylinder
+    3300004: Cylinder_001
+    3300006: Cylinder_002
+    3300008: eye
+    3300010: face_plate
+    3300012: head
+    3300014: Lazer_Eye
+    3300016: lazerball
+    3300018: Torus_000
+    3300020: Torus_002
+    3300022: Torus_003
+    3300024: Torus_004
+    3300026: Torus_005
+    3300028: Torus_006
+    3300030: Cylinder.001
+    3300032: Cylinder.002
+    3300034: face plate
+    3300036: Lazer Eye
+    3300038: Torus.000
+    3300040: Torus.002
+    3300042: Torus.003
+    3300044: Torus.004
+    3300046: Torus.005
+    3300048: Torus.006
+    4300000: Cube
+    4300002: Cylinder
+    4300004: Cylinder_001
+    4300006: Cylinder_002
+    4300008: eye
+    4300010: face_plate
+    4300012: head
+    4300014: Lazer_Eye
+    4300016: lazerball
+    4300018: Torus_000
+    4300020: Torus_002
+    4300022: Torus_003
+    4300024: Torus_004
+    4300026: Torus_005
+    4300028: Torus_006
+    4300030: Cylinder.001
+    4300032: Cylinder.002
+    4300034: face plate
+    4300036: Lazer Eye
+    4300038: Torus.000
+    4300040: Torus.002
+    4300042: Torus.003
+    4300044: Torus.004
+    4300046: Torus.005
+    4300048: Torus.006
+    7400000: Default Take
+    9500000: //RootNode
+    10800000: Lamp
+    10800002: Lamp.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1217 @@
+fileFormatVersion: 2
+guid: 1d64e52eed62d324ea49681054cd3eda
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Base_Plate
+    100004: Bone_026
+    100006: Bone_027
+    100008: Bone_028
+    100010: Bone_029
+    100012: Bone_041
+    100014: Bone_042
+    100016: Bone_043
+    100018: Bone_044
+    100020: Bone_045
+    100022: Bone_046
+    100024: Bone_047
+    100026: Bone_048
+    100028: Bone_049
+    100030: Bone_050
+    100032: Bone_051
+    100034: Bone_052
+    100036: Bone_053
+    100038: Bone_054
+    100040: Bone_055
+    100042: Bone_056
+    100044: Brain
+    100046: Brain_Tube_1_
+    100048: Brain_Tube_2
+    100050: Brain_Tube_3
+    100052: Dome
+    100054: Dome_Holder
+    100056: //RootNode
+    100058: Eye
+    100060: Face_plate
+    100062: First_Digit_1
+    100064: First_Digit_2
+    100066: First_Digit_3
+    100068: First_Digit_4_
+    100070: First_Digit_5
+    100072: First_Digit_6
+    100074: First_Digit_7
+    100076: First_Digit_8
+    100078: First_Hinge_1_1
+    100080: First_Hinge_1_2
+    100082: First_Hinge_2_1
+    100084: First_Hinge_2_2
+    100086: First_Hinge_3_1
+    100088: First_Hinge_3_2
+    100090: First_Hinge_4_1
+    100092: First_Hinge_4_2
+    100094: First_Hinge_5_1
+    100096: First_Hinge_5_2
+    100098: First_Hinge_6_1
+    100100: First_Hinge_6_2
+    100102: First_Hinge_7_1
+    100104: First_Hinge_7_2
+    100106: First_Hinge_8_1
+    100108: First_Hinge_8_2
+    100110: Foot_Connector_1
+    100112: Foot_Connector_2
+    100114: Foot_Connector_3
+    100116: Foot_Connector_4
+    100118: Foot_Connector_5
+    100120: Foot_Connector_6
+    100122: Foot_Connector_7
+    100124: Foot_Connector_8
+    100126: Foot_Gyro_1
+    100128: Foot_Gyro_2
+    100130: Foot_Gyro_3
+    100132: Foot_Gyro_4
+    100134: Foot_Gyro_5
+    100136: Foot_Gyro_6
+    100138: Foot_Gyro_7
+    100140: Foot_Gyro_8
+    100142: FootSpike_1
+    100144: FootSpike_2
+    100146: FootSpike_3
+    100148: FootSpike_4
+    100150: FootSpike_5
+    100152: FootSpike_6
+    100154: FootSpike_7
+    100156: FootSpike_8
+    100158: Gyro_1
+    100160: Gyro_2
+    100162: Gyro_3
+    100164: Gyro_4
+    100166: Gyro_5
+    100168: Gyro_6
+    100170: Gyro_7
+    100172: Gyro_8
+    100174: Head
+    100176: Head_0
+    100178: Lazer_Eye
+    100180: Lazerball
+    100182: Leg1_1
+    100184: Leg2_1
+    100186: Leg3_1
+    100188: Leg3_2
+    100190: Leg3_3
+    100192: Leg3_4
+    100194: Leg3_5
+    100196: Leg4_1
+    100198: Leg4_2
+    100200: Leg4_3
+    100202: Leg4_4
+    100204: Leg4_5
+    100206: Leg_1_4
+    100208: Leg_1_5
+    100210: Leg_2_1
+    100212: Leg_2_2
+    100214: Leg_2_3
+    100216: Leg_2_4
+    100218: Leg_2_5
+    100220: Leg_3_1
+    100222: Second_Digit_1
+    100224: Second_Digit_2
+    100226: Second_Digit_3
+    100228: Second_Digit_4
+    100230: Second_Digit_5
+    100232: Second_Digit_6
+    100234: Second_Digit_7
+    100236: Second_Digit_8
+    100238: Second_Hinge_1_1
+    100240: Second_Hinge_1_2
+    100242: Second_Hinge_2_1
+    100244: Second_Hinge_2_2
+    100246: Second_Hinge_3_1
+    100248: Second_Hinge_3_2
+    100250: Second_Hinge_4_1
+    100252: Second_Hinge_4_2
+    100254: Second_Hinge_5_1
+    100256: Second_Hinge_5_2
+    100258: Second_Hinge_6_1
+    100260: Second_Hinge_6_2
+    100262: Second_Hinge_7_1
+    100264: Second_Hinge_7_2
+    100266: Second_Hinge_8_1
+    100268: Second_Hinge_8_2
+    100270: Third_Digit_1
+    100272: Third_Digit_2
+    100274: Third_Digit_3
+    100276: Third_Digit_4
+    100278: Third_Digit_5
+    100280: Third_Digit_6
+    100282: Third_Digit_7
+    100284: Third_Digit_8
+    100286: Tube_Base_1
+    100288: Tube_Base_2
+    100290: Tube_Base_3
+    100292: Tube_Base_4
+    100294: Tube_Base_5
+    100296: Tube_Base_6
+    100298: Base Plate
+    100300: Bone.026
+    100302: Bone.027
+    100304: Bone.028
+    100306: Bone.029
+    100308: Bone.041
+    100310: Bone.042
+    100312: Bone.043
+    100314: Bone.044
+    100316: Bone.045
+    100318: Bone.046
+    100320: Bone.047
+    100322: Bone.048
+    100324: Bone.049
+    100326: Bone.050
+    100328: Bone.051
+    100330: Bone.052
+    100332: Bone.053
+    100334: Bone.053_end
+    100336: Bone.054
+    100338: Bone.054_end
+    100340: Bone.055
+    100342: Bone.055_end
+    100344: Bone.056
+    100346: Bone.056_end
+    100348: 'Brain Tube.1 '
+    100350: Brain Tube.2
+    100352: Brain Tube.3
+    100354: Dome Holder
+    100356: Face plate
+    100358: First Digit.1
+    100360: First Digit.2
+    100362: First Digit.3
+    100364: 'First Digit.4 '
+    100366: First Digit.5
+    100368: First Digit.6
+    100370: First Digit.7
+    100372: First Digit.8
+    100374: First Hinge.1.1
+    100376: First Hinge.1.2
+    100378: First Hinge.2.1
+    100380: First Hinge.2.2
+    100382: First Hinge.3.1
+    100384: First Hinge.3.2
+    100386: First Hinge.4.1
+    100388: First Hinge.4.2
+    100390: First Hinge.5.1
+    100392: First Hinge.5.2
+    100394: First Hinge.6.1
+    100396: First Hinge.6.2
+    100398: First Hinge.7.1
+    100400: First Hinge.7.2
+    100402: First Hinge.8.1
+    100404: First Hinge.8.2
+    100406: Foot Connector.1
+    100408: Foot Connector.2
+    100410: Foot Connector.3
+    100412: Foot Connector.4
+    100414: Foot Connector.5
+    100416: Foot Connector.6
+    100418: Foot Connector.7
+    100420: Foot Connector.8
+    100422: Foot Gyro.1
+    100424: Foot Gyro.2
+    100426: Foot Gyro.3
+    100428: Foot Gyro.4
+    100430: Foot Gyro.5
+    100432: Foot Gyro.6
+    100434: Foot Gyro.7
+    100436: Foot Gyro.8
+    100438: FootSpike.1
+    100440: FootSpike.2
+    100442: FootSpike.3
+    100444: FootSpike.4
+    100446: FootSpike.5
+    100448: FootSpike.6
+    100450: FootSpike.7
+    100452: FootSpike.8
+    100454: Gyro.1
+    100456: Gyro.2
+    100458: Gyro.3
+    100460: Gyro.4
+    100462: Gyro.5
+    100464: Gyro.6
+    100466: Gyro.7
+    100468: Gyro.8
+    100470: Head 1
+    100472: Head_end
+    100474: Lazer Eye
+    100476: Leg.1.4
+    100478: Leg.1.5
+    100480: Leg.1.5_end
+    100482: Leg.2.1
+    100484: Leg.2.2
+    100486: Leg.2.3
+    100488: Leg.2.4
+    100490: Leg.2.5
+    100492: Leg.2.5_end
+    100494: Leg.3.1
+    100496: Leg1.1
+    100498: Leg2.1
+    100500: Leg3.1
+    100502: Leg3.2
+    100504: Leg3.3
+    100506: Leg3.4
+    100508: Leg3.5
+    100510: Leg3.5_end
+    100512: Leg4.1
+    100514: Leg4.2
+    100516: Leg4.3
+    100518: Leg4.4
+    100520: Leg4.5
+    100522: Leg4.5_end
+    100524: Second Digit.1
+    100526: Second Digit.2
+    100528: Second Digit.3
+    100530: Second Digit.4
+    100532: Second Digit.5
+    100534: Second Digit.6
+    100536: Second Digit.7
+    100538: Second Digit.8
+    100540: Second Hinge.1.1
+    100542: Second Hinge.1.2
+    100544: Second Hinge.2.1
+    100546: Second Hinge.2.2
+    100548: Second Hinge.3.1
+    100550: Second Hinge.3.2
+    100552: Second Hinge.4.1
+    100554: Second Hinge.4.2
+    100556: Second Hinge.5.1
+    100558: Second Hinge.5.2
+    100560: Second Hinge.6.1
+    100562: Second Hinge.6.2
+    100564: Second Hinge.7.1
+    100566: Second Hinge.7.2
+    100568: Second Hinge.8.1
+    100570: Second Hinge.8.2
+    100572: Third Digit.1
+    100574: Third Digit.2
+    100576: Third Digit.3
+    100578: Third Digit.4
+    100580: Third Digit.5
+    100582: Third Digit.6
+    100584: Third Digit.7
+    100586: Third Digit.8
+    100588: Tube Base.1
+    100590: Tube Base.2
+    100592: Tube Base.3
+    100594: Tube Base.4
+    100596: Tube Base.5
+    100598: Tube Base.6
+    400000: Armature
+    400002: Base_Plate
+    400004: Bone_026
+    400006: Bone_027
+    400008: Bone_028
+    400010: Bone_029
+    400012: Bone_041
+    400014: Bone_042
+    400016: Bone_043
+    400018: Bone_044
+    400020: Bone_045
+    400022: Bone_046
+    400024: Bone_047
+    400026: Bone_048
+    400028: Bone_049
+    400030: Bone_050
+    400032: Bone_051
+    400034: Bone_052
+    400036: Bone_053
+    400038: Bone_054
+    400040: Bone_055
+    400042: Bone_056
+    400044: Brain
+    400046: Brain_Tube_1_
+    400048: Brain_Tube_2
+    400050: Brain_Tube_3
+    400052: Dome
+    400054: Dome_Holder
+    400056: //RootNode
+    400058: Eye
+    400060: Face_plate
+    400062: First_Digit_1
+    400064: First_Digit_2
+    400066: First_Digit_3
+    400068: First_Digit_4_
+    400070: First_Digit_5
+    400072: First_Digit_6
+    400074: First_Digit_7
+    400076: First_Digit_8
+    400078: First_Hinge_1_1
+    400080: First_Hinge_1_2
+    400082: First_Hinge_2_1
+    400084: First_Hinge_2_2
+    400086: First_Hinge_3_1
+    400088: First_Hinge_3_2
+    400090: First_Hinge_4_1
+    400092: First_Hinge_4_2
+    400094: First_Hinge_5_1
+    400096: First_Hinge_5_2
+    400098: First_Hinge_6_1
+    400100: First_Hinge_6_2
+    400102: First_Hinge_7_1
+    400104: First_Hinge_7_2
+    400106: First_Hinge_8_1
+    400108: First_Hinge_8_2
+    400110: Foot_Connector_1
+    400112: Foot_Connector_2
+    400114: Foot_Connector_3
+    400116: Foot_Connector_4
+    400118: Foot_Connector_5
+    400120: Foot_Connector_6
+    400122: Foot_Connector_7
+    400124: Foot_Connector_8
+    400126: Foot_Gyro_1
+    400128: Foot_Gyro_2
+    400130: Foot_Gyro_3
+    400132: Foot_Gyro_4
+    400134: Foot_Gyro_5
+    400136: Foot_Gyro_6
+    400138: Foot_Gyro_7
+    400140: Foot_Gyro_8
+    400142: FootSpike_1
+    400144: FootSpike_2
+    400146: FootSpike_3
+    400148: FootSpike_4
+    400150: FootSpike_5
+    400152: FootSpike_6
+    400154: FootSpike_7
+    400156: FootSpike_8
+    400158: Gyro_1
+    400160: Gyro_2
+    400162: Gyro_3
+    400164: Gyro_4
+    400166: Gyro_5
+    400168: Gyro_6
+    400170: Gyro_7
+    400172: Gyro_8
+    400174: Head
+    400176: Head_0
+    400178: Lazer_Eye
+    400180: Lazerball
+    400182: Leg1_1
+    400184: Leg2_1
+    400186: Leg3_1
+    400188: Leg3_2
+    400190: Leg3_3
+    400192: Leg3_4
+    400194: Leg3_5
+    400196: Leg4_1
+    400198: Leg4_2
+    400200: Leg4_3
+    400202: Leg4_4
+    400204: Leg4_5
+    400206: Leg_1_4
+    400208: Leg_1_5
+    400210: Leg_2_1
+    400212: Leg_2_2
+    400214: Leg_2_3
+    400216: Leg_2_4
+    400218: Leg_2_5
+    400220: Leg_3_1
+    400222: Second_Digit_1
+    400224: Second_Digit_2
+    400226: Second_Digit_3
+    400228: Second_Digit_4
+    400230: Second_Digit_5
+    400232: Second_Digit_6
+    400234: Second_Digit_7
+    400236: Second_Digit_8
+    400238: Second_Hinge_1_1
+    400240: Second_Hinge_1_2
+    400242: Second_Hinge_2_1
+    400244: Second_Hinge_2_2
+    400246: Second_Hinge_3_1
+    400248: Second_Hinge_3_2
+    400250: Second_Hinge_4_1
+    400252: Second_Hinge_4_2
+    400254: Second_Hinge_5_1
+    400256: Second_Hinge_5_2
+    400258: Second_Hinge_6_1
+    400260: Second_Hinge_6_2
+    400262: Second_Hinge_7_1
+    400264: Second_Hinge_7_2
+    400266: Second_Hinge_8_1
+    400268: Second_Hinge_8_2
+    400270: Third_Digit_1
+    400272: Third_Digit_2
+    400274: Third_Digit_3
+    400276: Third_Digit_4
+    400278: Third_Digit_5
+    400280: Third_Digit_6
+    400282: Third_Digit_7
+    400284: Third_Digit_8
+    400286: Tube_Base_1
+    400288: Tube_Base_2
+    400290: Tube_Base_3
+    400292: Tube_Base_4
+    400294: Tube_Base_5
+    400296: Tube_Base_6
+    400298: Base Plate
+    400300: Bone.026
+    400302: Bone.027
+    400304: Bone.028
+    400306: Bone.029
+    400308: Bone.041
+    400310: Bone.042
+    400312: Bone.043
+    400314: Bone.044
+    400316: Bone.045
+    400318: Bone.046
+    400320: Bone.047
+    400322: Bone.048
+    400324: Bone.049
+    400326: Bone.050
+    400328: Bone.051
+    400330: Bone.052
+    400332: Bone.053
+    400334: Bone.053_end
+    400336: Bone.054
+    400338: Bone.054_end
+    400340: Bone.055
+    400342: Bone.055_end
+    400344: Bone.056
+    400346: Bone.056_end
+    400348: 'Brain Tube.1 '
+    400350: Brain Tube.2
+    400352: Brain Tube.3
+    400354: Dome Holder
+    400356: Face plate
+    400358: First Digit.1
+    400360: First Digit.2
+    400362: First Digit.3
+    400364: 'First Digit.4 '
+    400366: First Digit.5
+    400368: First Digit.6
+    400370: First Digit.7
+    400372: First Digit.8
+    400374: First Hinge.1.1
+    400376: First Hinge.1.2
+    400378: First Hinge.2.1
+    400380: First Hinge.2.2
+    400382: First Hinge.3.1
+    400384: First Hinge.3.2
+    400386: First Hinge.4.1
+    400388: First Hinge.4.2
+    400390: First Hinge.5.1
+    400392: First Hinge.5.2
+    400394: First Hinge.6.1
+    400396: First Hinge.6.2
+    400398: First Hinge.7.1
+    400400: First Hinge.7.2
+    400402: First Hinge.8.1
+    400404: First Hinge.8.2
+    400406: Foot Connector.1
+    400408: Foot Connector.2
+    400410: Foot Connector.3
+    400412: Foot Connector.4
+    400414: Foot Connector.5
+    400416: Foot Connector.6
+    400418: Foot Connector.7
+    400420: Foot Connector.8
+    400422: Foot Gyro.1
+    400424: Foot Gyro.2
+    400426: Foot Gyro.3
+    400428: Foot Gyro.4
+    400430: Foot Gyro.5
+    400432: Foot Gyro.6
+    400434: Foot Gyro.7
+    400436: Foot Gyro.8
+    400438: FootSpike.1
+    400440: FootSpike.2
+    400442: FootSpike.3
+    400444: FootSpike.4
+    400446: FootSpike.5
+    400448: FootSpike.6
+    400450: FootSpike.7
+    400452: FootSpike.8
+    400454: Gyro.1
+    400456: Gyro.2
+    400458: Gyro.3
+    400460: Gyro.4
+    400462: Gyro.5
+    400464: Gyro.6
+    400466: Gyro.7
+    400468: Gyro.8
+    400470: Head 1
+    400472: Head_end
+    400474: Lazer Eye
+    400476: Leg.1.4
+    400478: Leg.1.5
+    400480: Leg.1.5_end
+    400482: Leg.2.1
+    400484: Leg.2.2
+    400486: Leg.2.3
+    400488: Leg.2.4
+    400490: Leg.2.5
+    400492: Leg.2.5_end
+    400494: Leg.3.1
+    400496: Leg1.1
+    400498: Leg2.1
+    400500: Leg3.1
+    400502: Leg3.2
+    400504: Leg3.3
+    400506: Leg3.4
+    400508: Leg3.5
+    400510: Leg3.5_end
+    400512: Leg4.1
+    400514: Leg4.2
+    400516: Leg4.3
+    400518: Leg4.4
+    400520: Leg4.5
+    400522: Leg4.5_end
+    400524: Second Digit.1
+    400526: Second Digit.2
+    400528: Second Digit.3
+    400530: Second Digit.4
+    400532: Second Digit.5
+    400534: Second Digit.6
+    400536: Second Digit.7
+    400538: Second Digit.8
+    400540: Second Hinge.1.1
+    400542: Second Hinge.1.2
+    400544: Second Hinge.2.1
+    400546: Second Hinge.2.2
+    400548: Second Hinge.3.1
+    400550: Second Hinge.3.2
+    400552: Second Hinge.4.1
+    400554: Second Hinge.4.2
+    400556: Second Hinge.5.1
+    400558: Second Hinge.5.2
+    400560: Second Hinge.6.1
+    400562: Second Hinge.6.2
+    400564: Second Hinge.7.1
+    400566: Second Hinge.7.2
+    400568: Second Hinge.8.1
+    400570: Second Hinge.8.2
+    400572: Third Digit.1
+    400574: Third Digit.2
+    400576: Third Digit.3
+    400578: Third Digit.4
+    400580: Third Digit.5
+    400582: Third Digit.6
+    400584: Third Digit.7
+    400586: Third Digit.8
+    400588: Tube Base.1
+    400590: Tube Base.2
+    400592: Tube Base.3
+    400594: Tube Base.4
+    400596: Tube Base.5
+    400598: Tube Base.6
+    2100000: unnamed
+    2100002: Glass
+    2100004: Material_001
+    2100006: Brain
+    2100008: Blood_001
+    2100010: eyes_001
+    2100012: metal_001
+    2100014: skin_001
+    2100016: lazerEye_001
+    2100018: No Name
+    2100020: Material.001
+    2100022: Blood.001
+    2100024: eyes.001
+    2100026: metal.001
+    2100028: skin.001
+    2100030: lazerEye.001
+    4300000: FootSpike_5
+    4300002: FootSpike_6
+    4300004: FootSpike_7
+    4300006: FootSpike_8
+    4300008: FootSpike_4
+    4300010: FootSpike_3
+    4300012: FootSpike_2
+    4300014: FootSpike_1
+    4300016: Foot_Gyro_1
+    4300018: Foot_Gyro_2
+    4300020: Foot_Gyro_3
+    4300022: Foot_Gyro_4
+    4300024: Foot_Gyro_8
+    4300026: Foot_Gyro_7
+    4300028: Foot_Gyro_6
+    4300030: Foot_Gyro_5
+    4300032: Dome
+    4300034: Gyro_8
+    4300036: Gyro_7
+    4300038: Gyro_6
+    4300040: Gyro_5
+    4300042: Gyro_1
+    4300044: Gyro_2
+    4300046: Gyro_3
+    4300048: Gyro_4
+    4300050: Dome_Holder
+    4300052: Second_Digit_5
+    4300054: First_Hinge_5_1
+    4300056: First_Digit_5
+    4300058: Third_Digit_5
+    4300060: Foot_Connector_5
+    4300062: Second_Hinge_5_1
+    4300064: Second_Hinge_5_2
+    4300066: First_Hinge_5_2
+    4300068: First_Hinge_6_2
+    4300070: Second_Hinge_6_2
+    4300072: Second_Hinge_6_1
+    4300074: Foot_Connector_6
+    4300076: Third_Digit_6
+    4300078: First_Digit_6
+    4300080: First_Hinge_6_1
+    4300082: Second_Digit_7
+    4300084: First_Hinge_7_1
+    4300086: First_Digit_7
+    4300088: Third_Digit_7
+    4300090: Foot_Connector_7
+    4300092: Second_Hinge_7_1
+    4300094: Second_Hinge_7_2
+    4300096: First_Hinge_7_2
+    4300098: First_Hinge_8_2
+    4300100: Second_Hinge_8_2
+    4300102: Second_Hinge_8_1
+    4300104: Foot_Connector_8
+    4300106: Third_Digit_8
+    4300108: First_Digit_8
+    4300110: First_Hinge_8_1
+    4300112: Second_Digit_8
+    4300114: Second_Digit_4
+    4300116: First_Hinge_4_1
+    4300118: First_Digit_4_
+    4300120: Third_Digit_4
+    4300122: Foot_Connector_4
+    4300124: Second_Hinge_4_1
+    4300126: Second_Hinge_4_2
+    4300128: First_Hinge_4_2
+    4300130: First_Hinge_3_2
+    4300132: Second_Hinge_3_2
+    4300134: Second_Hinge_3_1
+    4300136: Foot_Connector_3
+    4300138: Third_Digit_3
+    4300140: First_Digit_3
+    4300142: First_Hinge_3_1
+    4300144: Second_Digit_3
+    4300146: Second_Digit_2
+    4300148: First_Hinge_2_1
+    4300150: First_Digit_2
+    4300152: Third_Digit_2
+    4300154: Foot_Connector_2
+    4300156: Second_Hinge_2_1
+    4300158: Second_Hinge_2_2
+    4300160: First_Hinge_2_2
+    4300162: First_Hinge_1_2
+    4300164: Second_Hinge_1_2
+    4300166: Second_Hinge_1_1
+    4300168: Foot_Connector_1
+    4300170: Third_Digit_1
+    4300172: First_Digit_1
+    4300174: First_Hinge_1_1
+    4300176: Second_Digit_1
+    4300178: Base_Plate
+    4300180: Brain
+    4300182: Brain_Tube_1_
+    4300184: Brain_Tube_2
+    4300186: Brain_Tube_3
+    4300188: Eye
+    4300190: Face_plate
+    4300192: Head
+    4300194: Lazer_Eye
+    4300196: Lazerball
+    4300198: Tube_Base_5
+    4300200: Tube_Base_2
+    4300202: Tube_Base_4
+    4300204: Tube_Base_1
+    4300206: Tube_Base_3
+    4300208: Tube_Base_6
+    4300210: Second_Digit_6
+    4300212: FootSpike.5
+    4300214: FootSpike.6
+    4300216: FootSpike.7
+    4300218: FootSpike.8
+    4300220: FootSpike.4
+    4300222: FootSpike.3
+    4300224: FootSpike.2
+    4300226: FootSpike.1
+    4300228: Foot Gyro.1
+    4300230: Foot Gyro.2
+    4300232: Foot Gyro.3
+    4300234: Foot Gyro.4
+    4300236: Foot Gyro.8
+    4300238: Foot Gyro.7
+    4300240: Foot Gyro.6
+    4300242: Foot Gyro.5
+    4300244: Gyro.8
+    4300246: Gyro.7
+    4300248: Gyro.6
+    4300250: Gyro.5
+    4300252: Gyro.1
+    4300254: Gyro.2
+    4300256: Gyro.3
+    4300258: Gyro.4
+    4300260: Dome Holder
+    4300262: Second Digit.5
+    4300264: First Hinge.5.1
+    4300266: First Digit.5
+    4300268: Third Digit.5
+    4300270: Foot Connector.5
+    4300272: Second Hinge.5.1
+    4300274: Second Hinge.5.2
+    4300276: First Hinge.5.2
+    4300278: First Hinge.6.2
+    4300280: Second Hinge.6.2
+    4300282: Second Hinge.6.1
+    4300284: Foot Connector.6
+    4300286: Third Digit.6
+    4300288: First Digit.6
+    4300290: First Hinge.6.1
+    4300292: Second Digit.7
+    4300294: First Hinge.7.1
+    4300296: First Digit.7
+    4300298: Third Digit.7
+    4300300: Foot Connector.7
+    4300302: Second Hinge.7.1
+    4300304: Second Hinge.7.2
+    4300306: First Hinge.7.2
+    4300308: First Hinge.8.2
+    4300310: Second Hinge.8.2
+    4300312: Second Hinge.8.1
+    4300314: Foot Connector.8
+    4300316: Third Digit.8
+    4300318: First Digit.8
+    4300320: First Hinge.8.1
+    4300322: Second Digit.8
+    4300324: Second Digit.4
+    4300326: First Hinge.4.1
+    4300328: 'First Digit.4 '
+    4300330: Third Digit.4
+    4300332: Foot Connector.4
+    4300334: Second Hinge.4.1
+    4300336: Second Hinge.4.2
+    4300338: First Hinge.4.2
+    4300340: First Hinge.3.2
+    4300342: Second Hinge.3.2
+    4300344: Second Hinge.3.1
+    4300346: Foot Connector.3
+    4300348: Third Digit.3
+    4300350: First Digit.3
+    4300352: First Hinge.3.1
+    4300354: Second Digit.3
+    4300356: Second Digit.2
+    4300358: First Hinge.2.1
+    4300360: First Digit.2
+    4300362: Third Digit.2
+    4300364: Foot Connector.2
+    4300366: Second Hinge.2.1
+    4300368: Second Hinge.2.2
+    4300370: First Hinge.2.2
+    4300372: First Hinge.1.2
+    4300374: Second Hinge.1.2
+    4300376: Second Hinge.1.1
+    4300378: Foot Connector.1
+    4300380: Third Digit.1
+    4300382: First Digit.1
+    4300384: First Hinge.1.1
+    4300386: Second Digit.1
+    4300388: Base Plate
+    4300390: 'Brain Tube.1 '
+    4300392: Brain Tube.2
+    4300394: Brain Tube.3
+    4300396: Face plate
+    4300398: Lazer Eye
+    4300400: Tube Base.5
+    4300402: Tube Base.2
+    4300404: Tube Base.4
+    4300406: Tube Base.1
+    4300408: Tube Base.3
+    4300410: Tube Base.6
+    4300412: Second Digit.6
+    7400000: Default Take
+    7400002: a
+    7400004: Attack_head
+    7400006: Idle_head
+    7400008: Walk_head
+    9500000: //RootNode
+    13700000: Base_Plate
+    13700002: Brain
+    13700004: Brain_Tube_1_
+    13700006: Brain_Tube_2
+    13700008: Brain_Tube_3
+    13700010: Dome
+    13700012: Dome_Holder
+    13700014: Eye
+    13700016: Face_plate
+    13700018: First_Digit_1
+    13700020: First_Digit_2
+    13700022: First_Digit_3
+    13700024: First_Digit_4_
+    13700026: First_Digit_5
+    13700028: First_Digit_6
+    13700030: First_Digit_7
+    13700032: First_Digit_8
+    13700034: First_Hinge_1_1
+    13700036: First_Hinge_1_2
+    13700038: First_Hinge_2_1
+    13700040: First_Hinge_2_2
+    13700042: First_Hinge_3_1
+    13700044: First_Hinge_3_2
+    13700046: First_Hinge_4_1
+    13700048: First_Hinge_4_2
+    13700050: First_Hinge_5_1
+    13700052: First_Hinge_5_2
+    13700054: First_Hinge_6_1
+    13700056: First_Hinge_6_2
+    13700058: First_Hinge_7_1
+    13700060: First_Hinge_7_2
+    13700062: First_Hinge_8_1
+    13700064: First_Hinge_8_2
+    13700066: Foot_Connector_1
+    13700068: Foot_Connector_2
+    13700070: Foot_Connector_3
+    13700072: Foot_Connector_4
+    13700074: Foot_Connector_5
+    13700076: Foot_Connector_6
+    13700078: Foot_Connector_7
+    13700080: Foot_Connector_8
+    13700082: Foot_Gyro_1
+    13700084: Foot_Gyro_2
+    13700086: Foot_Gyro_3
+    13700088: Foot_Gyro_4
+    13700090: Foot_Gyro_5
+    13700092: Foot_Gyro_6
+    13700094: Foot_Gyro_7
+    13700096: Foot_Gyro_8
+    13700098: FootSpike_1
+    13700100: FootSpike_2
+    13700102: FootSpike_3
+    13700104: FootSpike_4
+    13700106: FootSpike_5
+    13700108: FootSpike_6
+    13700110: FootSpike_7
+    13700112: FootSpike_8
+    13700114: Gyro_1
+    13700116: Gyro_2
+    13700118: Gyro_3
+    13700120: Gyro_4
+    13700122: Gyro_5
+    13700124: Gyro_6
+    13700126: Gyro_7
+    13700128: Gyro_8
+    13700130: Head
+    13700132: Lazer_Eye
+    13700134: Lazerball
+    13700136: Second_Digit_1
+    13700138: Second_Digit_2
+    13700140: Second_Digit_3
+    13700142: Second_Digit_4
+    13700144: Second_Digit_5
+    13700146: Second_Digit_6
+    13700148: Second_Digit_7
+    13700150: Second_Digit_8
+    13700152: Second_Hinge_1_1
+    13700154: Second_Hinge_1_2
+    13700156: Second_Hinge_2_1
+    13700158: Second_Hinge_2_2
+    13700160: Second_Hinge_3_1
+    13700162: Second_Hinge_3_2
+    13700164: Second_Hinge_4_1
+    13700166: Second_Hinge_4_2
+    13700168: Second_Hinge_5_1
+    13700170: Second_Hinge_5_2
+    13700172: Second_Hinge_6_1
+    13700174: Second_Hinge_6_2
+    13700176: Second_Hinge_7_1
+    13700178: Second_Hinge_7_2
+    13700180: Second_Hinge_8_1
+    13700182: Second_Hinge_8_2
+    13700184: Third_Digit_1
+    13700186: Third_Digit_2
+    13700188: Third_Digit_3
+    13700190: Third_Digit_4
+    13700192: Third_Digit_5
+    13700194: Third_Digit_6
+    13700196: Third_Digit_7
+    13700198: Third_Digit_8
+    13700200: Tube_Base_1
+    13700202: Tube_Base_2
+    13700204: Tube_Base_3
+    13700206: Tube_Base_4
+    13700208: Tube_Base_5
+    13700210: Tube_Base_6
+    13700212: Base Plate
+    13700214: 'Brain Tube.1 '
+    13700216: Brain Tube.2
+    13700218: Brain Tube.3
+    13700220: Dome Holder
+    13700222: Face plate
+    13700224: First Digit.1
+    13700226: First Digit.2
+    13700228: First Digit.3
+    13700230: 'First Digit.4 '
+    13700232: First Digit.5
+    13700234: First Digit.6
+    13700236: First Digit.7
+    13700238: First Digit.8
+    13700240: First Hinge.1.1
+    13700242: First Hinge.1.2
+    13700244: First Hinge.2.1
+    13700246: First Hinge.2.2
+    13700248: First Hinge.3.1
+    13700250: First Hinge.3.2
+    13700252: First Hinge.4.1
+    13700254: First Hinge.4.2
+    13700256: First Hinge.5.1
+    13700258: First Hinge.5.2
+    13700260: First Hinge.6.1
+    13700262: First Hinge.6.2
+    13700264: First Hinge.7.1
+    13700266: First Hinge.7.2
+    13700268: First Hinge.8.1
+    13700270: First Hinge.8.2
+    13700272: Foot Connector.1
+    13700274: Foot Connector.2
+    13700276: Foot Connector.3
+    13700278: Foot Connector.4
+    13700280: Foot Connector.5
+    13700282: Foot Connector.6
+    13700284: Foot Connector.7
+    13700286: Foot Connector.8
+    13700288: Foot Gyro.1
+    13700290: Foot Gyro.2
+    13700292: Foot Gyro.3
+    13700294: Foot Gyro.4
+    13700296: Foot Gyro.5
+    13700298: Foot Gyro.6
+    13700300: Foot Gyro.7
+    13700302: Foot Gyro.8
+    13700304: FootSpike.1
+    13700306: FootSpike.2
+    13700308: FootSpike.3
+    13700310: FootSpike.4
+    13700312: FootSpike.5
+    13700314: FootSpike.6
+    13700316: FootSpike.7
+    13700318: FootSpike.8
+    13700320: Gyro.1
+    13700322: Gyro.2
+    13700324: Gyro.3
+    13700326: Gyro.4
+    13700328: Gyro.5
+    13700330: Gyro.6
+    13700332: Gyro.7
+    13700334: Gyro.8
+    13700336: Lazer Eye
+    13700338: Second Digit.1
+    13700340: Second Digit.2
+    13700342: Second Digit.3
+    13700344: Second Digit.4
+    13700346: Second Digit.5
+    13700348: Second Digit.6
+    13700350: Second Digit.7
+    13700352: Second Digit.8
+    13700354: Second Hinge.1.1
+    13700356: Second Hinge.1.2
+    13700358: Second Hinge.2.1
+    13700360: Second Hinge.2.2
+    13700362: Second Hinge.3.1
+    13700364: Second Hinge.3.2
+    13700366: Second Hinge.4.1
+    13700368: Second Hinge.4.2
+    13700370: Second Hinge.5.1
+    13700372: Second Hinge.5.2
+    13700374: Second Hinge.6.1
+    13700376: Second Hinge.6.2
+    13700378: Second Hinge.7.1
+    13700380: Second Hinge.7.2
+    13700382: Second Hinge.8.1
+    13700384: Second Hinge.8.2
+    13700386: Third Digit.1
+    13700388: Third Digit.2
+    13700390: Third Digit.3
+    13700392: Third Digit.4
+    13700394: Third Digit.5
+    13700396: Third Digit.6
+    13700398: Third Digit.7
+    13700400: Third Digit.8
+    13700402: Tube Base.1
+    13700404: Tube Base.2
+    13700406: Tube Base.3
+    13700408: Tube Base.4
+    13700410: Tube Base.5
+    13700412: Tube Base.6
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 63ed684407396484898291a2040c3cda, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack_head
+      takeName: Attack_head
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_head
+      takeName: Idle_head
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_head
+      takeName: Walk_head
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

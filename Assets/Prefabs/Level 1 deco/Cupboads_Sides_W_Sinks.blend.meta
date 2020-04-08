@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 0deb3498583a3584b93682754f85791e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Basin
+    100002: Basin_001
+    100004: Cube
+    100006: //RootNode
+    100008: Drain
+    100010: Drain_001
+    100012: Empty_001
+    100014: Faucet_Base
+    100016: Faucet_Base_001
+    100018: Icosphere
+    100020: Icosphere_001
+    100022: Icosphere_002
+    100024: Icosphere_003
+    100026: Left_Tap
+    100028: Left_Tap_001
+    100030: Neck
+    100032: Neck_001
+    100034: Right_Tap
+    100036: Right_Tap_001
+    100038: Sink
+    100040: Table_Top
+    100042: Basin.001
+    100044: Drain.001
+    100046: Empty.001
+    100048: Faucet Base
+    100050: Faucet Base.001
+    100052: Icosphere.001
+    100054: Icosphere.002
+    100056: Icosphere.003
+    100058: Left Tap
+    100060: Left Tap.001
+    100062: Neck.001
+    100064: Right Tap
+    100066: Right Tap.001
+    100068: Table Top
+    400000: Basin
+    400002: Basin_001
+    400004: Cube
+    400006: //RootNode
+    400008: Drain
+    400010: Drain_001
+    400012: Empty_001
+    400014: Faucet_Base
+    400016: Faucet_Base_001
+    400018: Icosphere
+    400020: Icosphere_001
+    400022: Icosphere_002
+    400024: Icosphere_003
+    400026: Left_Tap
+    400028: Left_Tap_001
+    400030: Neck
+    400032: Neck_001
+    400034: Right_Tap
+    400036: Right_Tap_001
+    400038: Sink
+    400040: Table_Top
+    400042: Basin.001
+    400044: Drain.001
+    400046: Empty.001
+    400048: Faucet Base
+    400050: Faucet Base.001
+    400052: Icosphere.001
+    400054: Icosphere.002
+    400056: Icosphere.003
+    400058: Left Tap
+    400060: Left Tap.001
+    400062: Neck.001
+    400064: Right Tap
+    400066: Right Tap.001
+    400068: Table Top
+    2100000: black
+    2100002: white
+    2100004: unnamed
+    2100006: No Name
+    2300000: Basin
+    2300002: Basin_001
+    2300004: Cube
+    2300006: Drain
+    2300008: Drain_001
+    2300010: Faucet_Base
+    2300012: Faucet_Base_001
+    2300014: Icosphere
+    2300016: Icosphere_001
+    2300018: Icosphere_002
+    2300020: Icosphere_003
+    2300022: Left_Tap
+    2300024: Left_Tap_001
+    2300026: Neck
+    2300028: Neck_001
+    2300030: Right_Tap
+    2300032: Right_Tap_001
+    2300034: Table_Top
+    2300036: Basin.001
+    2300038: Drain.001
+    2300040: Faucet Base
+    2300042: Faucet Base.001
+    2300044: Icosphere.001
+    2300046: Icosphere.002
+    2300048: Icosphere.003
+    2300050: Left Tap
+    2300052: Left Tap.001
+    2300054: Neck.001
+    2300056: Right Tap
+    2300058: Right Tap.001
+    2300060: Table Top
+    3300000: Basin
+    3300002: Basin_001
+    3300004: Cube
+    3300006: Drain
+    3300008: Drain_001
+    3300010: Faucet_Base
+    3300012: Faucet_Base_001
+    3300014: Icosphere
+    3300016: Icosphere_001
+    3300018: Icosphere_002
+    3300020: Icosphere_003
+    3300022: Left_Tap
+    3300024: Left_Tap_001
+    3300026: Neck
+    3300028: Neck_001
+    3300030: Right_Tap
+    3300032: Right_Tap_001
+    3300034: Table_Top
+    3300036: Basin.001
+    3300038: Drain.001
+    3300040: Faucet Base
+    3300042: Faucet Base.001
+    3300044: Icosphere.001
+    3300046: Icosphere.002
+    3300048: Icosphere.003
+    3300050: Left Tap
+    3300052: Left Tap.001
+    3300054: Neck.001
+    3300056: Right Tap
+    3300058: Right Tap.001
+    3300060: Table Top
+    4300000: Icosphere_003
+    4300002: Icosphere_002
+    4300004: Icosphere_001
+    4300006: Icosphere
+    4300008: Cube
+    4300010: Table_Top
+    4300012: Drain
+    4300014: Faucet_Base
+    4300016: Neck
+    4300018: Left_Tap
+    4300020: Right_Tap
+    4300022: Basin
+    4300024: Basin_001
+    4300026: Drain_001
+    4300028: Faucet_Base_001
+    4300030: Left_Tap_001
+    4300032: Neck_001
+    4300034: Right_Tap_001
+    4300036: Faucet Base
+    4300038: Left Tap
+    4300040: Right Tap
+    4300042: Icosphere.003
+    4300044: Icosphere.002
+    4300046: Icosphere.001
+    4300048: Basin.001
+    4300050: Drain.001
+    4300052: Faucet Base.001
+    4300054: Left Tap.001
+    4300056: Neck.001
+    4300058: Right Tap.001
+    4300060: Table Top
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
